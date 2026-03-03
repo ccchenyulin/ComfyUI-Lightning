@@ -1,4 +1,4 @@
 sageattention
 xformers 
-torchao
+torchao<=0.15.0
 triton
